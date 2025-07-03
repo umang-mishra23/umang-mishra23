@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/umangmishra23" target="blank"><img src="https://img.shields.io/twitter/follow/umangmishra23?logo=twitter&style=for-the-badge" alt="umangmishra23" /></a> </p>
 
-- 🔭 I’m currently working on **Face Detection AI**
+- 🔭 I’m currently working on **Cyber Radar - Firewall**
 
 - 🌱 I’m currently learning **Django, Kotlin**
 
